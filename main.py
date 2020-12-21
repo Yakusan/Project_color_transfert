@@ -1,3 +1,9 @@
+import numpy as np
+import matplotlib
+import imageio
+import colour
+from colour_hdri import Image
+
 # This is a sample Python script.
 
 # Press Maj+F10 to execute it or replace it with your code.
