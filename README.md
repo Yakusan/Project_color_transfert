@@ -1,2 +1,3 @@
-# HDR_Color_Transfert
-A scholar project dedicated to implement Erik Reihnart's color transfert paper with an HDR extension.
+# Project color transfert
+
+A scholar project dedicated to implement Erik Reihnart's color transfert paper in the form of a notebook.
